@@ -1,6 +1,1 @@
-#!/system/bin/sh
-chmod 777  /data/adb/modules/RO2RW/install.sh
-[ -f  /data/adb/modules/RO2RW/install.sh ] && {
-/data/adb/modules/RO2RW/install.sh "terminal" 2 "/data/adb/modules/RO2RW/install.zip" "magisk"
-exit $?
-}
+
