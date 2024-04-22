@@ -1,0 +1,11 @@
+ro.product.odm.brand=Alldocube
+ro.product.odm.device=iPlay_50_mini_Pro
+ro.product.odm.manufacturer=Alldocube
+ro.product.odm.model=iPlay 50 mini Pro
+ro.product.odm.name=iPlay_50_mini_Pro
+
+ro.hardware.gatekeeper=trustkernel
+
+ro.vendor.mtk_trustkernel_tee_support=1
+
+ro.hardware.kmsetkey=trustkernel
